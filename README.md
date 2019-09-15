@@ -1,2 +1,2 @@
 # ScoreUpdater
-Score management amf auto updater
+Score management amf auto updaters
